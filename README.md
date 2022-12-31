@@ -6,5 +6,5 @@
 
 </p>
 <p align="center">
-  App Landing Page
+Demo link : https://app-land-page.netlify.app
 </p>
